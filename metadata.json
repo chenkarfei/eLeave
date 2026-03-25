@@ -1,0 +1,5 @@
+{
+  "name": "eLeave Management System",
+  "description": "Multi-country eLeave Management System with role-based access control, leave policies, and approval workflows.",
+  "requestFramePermissions": []
+}
